@@ -1,5 +1,3 @@
------
-
 # 🧼 CleanCheck: 온디바이스 AI 기반 손 위생 커버리지 시각화 시스템
 
 ## Acknowledgement
