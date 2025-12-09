@@ -18,7 +18,9 @@
 
 ## 🌐 CleanCheck
 
-[cleancheck.org](https://cleancheck.org) (Demo)
+[cleancheck.org](https://cleancheck.org) (HomePage)
+>
+[![CleanCheck Demo](https://img.youtube.com/vi/TbWaYp4FHB0/0.jpg)](https://www.youtube.com/watch?v=TbWaYp4FHB0)
 
 > **감염 관리의 패러다임을 '사후 분석'에서 '실시간 예방'으로.**
 
