@@ -6,11 +6,11 @@
 >
 > This project was supported by the Institute of Information & Communications Technology Planning & Evaluation (IITP) grant funded by the Korean government (MSIT) (No.RS-2022-00155857, AI Convergence Innovation Talent Training Program at Chungnam National University).
 
-[](https://kotlinlang.org/)
-[](https://developer.android.com/)
-[](https://www.tensorflow.org/lite)
-[](https://mediapipe.dev/)
-[](https://opensource.org/licenses/MIT)
+[![Kotlin](https://img.shields.io/badge/Kotlin-1.9-7F52FF?logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![Android](https://img.shields.io/badge/Android-SDK-3DDC84?logo=android&logoColor=white)](https://developer.android.com/)
+[![TensorFlow Lite](https://img.shields.io/badge/TensorFlow-Lite-FF6F00?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/lite)
+[![MediaPipe](https://img.shields.io/badge/MediaPipe-0.10-brightgreen)](https://mediapipe.dev/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > **CleanCheck**는 안드로이드 태블릿(키오스크) 환경에서 구동되는 **온디바이스 AI 시스템**입니다. 컴퓨터 비전 기술을 활용하여 사용자의 손 씻기 동작을 실시간으로 인식하고, 세정된 부위를 히트맵으로 시각화하여 감염 예방을 위한 올바른 손 위생 습관을 코칭합니다.
 
