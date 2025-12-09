@@ -1,7 +1,3 @@
-논문의 **시스템 설계 및 아키텍처(Section II, III)** 내용을 반영하여, 데스크톱(Python) 구조가 아닌 **안드로이드 키오스크 애플리케이션 구조**로 재구성한 `README.md`입니다.
-
-논문에 명시된 **Jetpack Compose, CameraX, Room DB, TFLite** 등의 기술 스택과 안드로이드 프로젝트 구조를 반영했습니다.
-
 -----
 
 # 🧼 CleanCheck: 온디바이스 AI 기반 손 위생 커버리지 시각화 시스템
